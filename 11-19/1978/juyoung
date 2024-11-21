@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class test_1978 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+        int Chk = 0;
+        int sum = 0;
+
+        for (int i = 0; i < N ; i++) {
+            int Num = sc.nextInt();
+            Chk =0;
+
+            for (int j = 1; j <= Num; j++) {
+
+                if (Num %j==0) {
+                    Chk++;
+                }
+            }
+            if (Chk ==2) sum++;
+            }
+            System.out.println(sum);
+
+
+    }
+}

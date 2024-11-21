@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class test_2292 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int N = sc.nextInt();
+        int count = 1;
+        int Num = 1;
+
+        while (N > count){
+            count += Num*6;
+
+            Num++;
+        }
+        System.out.println(Num);
+    }
+}
