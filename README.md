@@ -22,3 +22,8 @@
 11-21: <https://www.acmicpc.net/problem/2564>
 
 11-22: <https://www.acmicpc.net/problem/2527>
+
+11-23: <https://www.acmicpc.net/problem/1065> 
+
+11-24: <https://www.acmicpc.net/problem/1158> 
+
