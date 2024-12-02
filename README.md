@@ -35,3 +35,9 @@
 
 11-28: <https://www.acmicpc.net/problem/2116> 
 
+11-29: <https://www.acmicpc.net/problem/10866> 
+
+11-30: <https://www.acmicpc.net/problem/2003> 
+
+12-01: <https://www.acmicpc.net/problem/11656> 
+
