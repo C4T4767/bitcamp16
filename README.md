@@ -35,9 +35,3 @@
 
 11-28: <https://www.acmicpc.net/problem/2116> 
 
-11-25: <https://www.acmicpc.net/problem/10866> 
-
-11-26: <https://www.acmicpc.net/problem/2003> 
-
-11-27: <https://www.acmicpc.net/problem/11656> 
-
