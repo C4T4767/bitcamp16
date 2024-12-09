@@ -12,3 +12,5 @@
 
 12-07: <https://www.acmicpc.net/problem/2304> 
 
+12-08: <https://www.acmicpc.net/problem/15649> 
+
