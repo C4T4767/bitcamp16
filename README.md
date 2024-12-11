@@ -16,3 +16,5 @@
 
 12-09: <https://www.acmicpc.net/problem/15650> 
 
+12-10: <https://www.acmicpc.net/problem/1904> 
+
