@@ -22,3 +22,11 @@
 
 12-12: <https://www.acmicpc.net/problem/1021> 
 
+12-13: <https://www.acmicpc.net/problem/13305> 
+
+12-14: <https://www.acmicpc.net/problem/15657> 
+
+12-15: <https://www.acmicpc.net/problem/3273> 
+
+12-16: <https://www.acmicpc.net/problem/10974> 
+
